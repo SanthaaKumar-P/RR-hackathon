@@ -1,0 +1,13 @@
+format,player_type,scenario,top10_overlap_with_baseline
+T20,Batter,Baseline,10
+T20,Batter,Volume_Focused,9
+T20,Batter,Efficiency_Focused,9
+T20,Bowler,Baseline,10
+T20,Bowler,Wicket_Impact,9
+T20,Bowler,Control_Focused,9
+T20I,Batter,Baseline,10
+T20I,Batter,Volume_Focused,10
+T20I,Batter,Efficiency_Focused,10
+T20I,Bowler,Baseline,10
+T20I,Bowler,Wicket_Impact,8
+T20I,Bowler,Control_Focused,10

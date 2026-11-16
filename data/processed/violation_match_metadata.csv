@@ -1,0 +1,147 @@
+match_id,comp_id,match_date,stage,venue_country,first_inn_revised_overs,second_inn_revised_overs,revised_target,result
+13513,1331,2022-01-26,League,West Indies,,,,West Indies Won by 20 runs
+13515,1331,2022-01-30,League,West Indies,,,,West Indies Won by 17 runs
+13614,1345,2022-02-15,League,Australia,,,,Australia Won by 6 Wkts
+14094,1358,2022-03-26,League,India,,,,Kolkata Knight Riders Won by 6 Wkts
+14098,1358,2022-03-29,League,India,,,,Rajasthan Royals Won by 61 Runs
+14102,1358,2022-04-02,League,India,,,,Rajasthan Royals Won by 23 Runs
+14115,1358,2022-04-12,League,India,,,,Chennai Super Kings Won by 23 Runs
+14117,1358,2022-04-14,League,India,,,,Gujarat Titans Won by 37 runs
+14127,1358,2022-04-22,League,India,,,,Rajasthan Royals Won by 15 Runs
+14131,1358,2022-04-25,League,India,,,,Punjab Kings Won by 11 Runs
+14141,1358,2022-05-02,League,India,,,,Kolkata Knight Riders Won by 7 Wickets
+14145,1358,2022-05-06,League,India,,,,Mumbai Indians won by 5 runs
+14154,1358,2022-05-13,League,India,,,,Punjab Kings won by 54 runs
+14159,1358,2022-05-17,League,India,,,,Sunrisers Hyderabad Won by 3 Runs
+15188,1358,2022-05-25,Eliminator,India,,,,Royal Challengers Bengaluru Won by 14 Runs
+15548,1452,2022-07-07,League,West Indies,,,,West Indies Won by 5 Wickets
+15609,1458,2022-06-11,League,Zimbabwe,,,,Afghanistan Won by 6 Wickets
+15796,1474,2022-06-28,League,Ireland,,,,India Won by 4 Runs
+16258,1512,2022-07-18,League,United Kingdom,,,,New Zealand Won by 31 Runs
+16424,1523,2022-07-30,League,Zimbabwe,,,,Zimbabwe Won by 17 Runs
+16647,1531,2022-08-05,League,United Kingdom,,,,South Africa Won by 44 Runs
+16656,1533,2022-08-31,League,United Arab Emirates,,,,India Won by 40 Runs
+16661,1533,2022-09-06,League,United Arab Emirates,,,,Sri Lanka Won by 6 Wickets
+16662,1533,2022-09-07,League,United Arab Emirates,,,,Pakistan Won by 1 Wicket
+16751,1543,2022-08-11,League,United Kingdom,,,,Ireland Won by 5 Wickets
+17555,1595,2022-09-23,League,Pakistan,,,,England Won by 63 Runs
+17626,1599,2022-10-02,League,India,,,,India Won by 16 Runs
+17627,1599,2022-10-04,League,India,,,,South Africa Won by 49 Runs
+17640,1603,2022-10-05,League,Australia,,,,Australia Won by 3 Wickets
+17763,1611,2022-10-09,League,Australia,,,,England Won by 8 Runs
+19556,1698,2023-01-03,Others,India,,,,India Won by 2 Runs
+20181,1715,2023-03-31,League,India,,,,Gujarat Titans Won by 5 wickets
+20182,1715,2023-04-01,League,India,,,,Punjab Kings Won by 7 Runs(D/L Method)
+20183,1715,2023-04-01,League,India,,,,Lucknow Super Giants Won by 50 runs
+20184,1715,2023-04-02,League,India,,,,Rajasthan Royals Won By 72 Runs
+20185,1715,2023-04-02,League,India,,,,Royal Challengers Bengaluru won by 8 wickets
+20188,1715,2023-04-05,League,India,,,,Punjab Kings Won by 5 runs
+20189,1715,2023-04-06,League,India,,,,Kolkata Knight Riders Won By 81 Runs
+20191,1715,2023-04-08,League,India,,,,Rajasthan Royals Won by 57 Runs
+20200,1715,2023-04-15,League,India,,,,Royal Challengers Bengaluru won by 23 runs
+20204,1715,2023-04-17,League,India,,,,Chennai Super Kings Won by 8 Runs
+20207,1715,2023-04-20,League,India,,,,Royal Challengers Bengaluru Won by 24 Runs
+20211,1715,2023-04-22,League,India,,,,Punjab Kings Won By 13Runs
+20213,1715,2023-04-23,League,India,,,,Chennai Super Kings won by 49 runs
+20220,1715,2023-04-29,League,India,,,,Sunrisers Hyderabad Won by 9 Runs
+20225,1715,2023-05-03,League,India,,,,Mumbai Indians Won by 6 wickets
+20231,1715,2023-05-07,League,India,,,,Gujarat Titans Won By 56 Runs
+20238,1715,2023-05-13,League,India,,,,Lucknow Super Giants Won by 7 wickets
+20243,1715,2023-05-16,League,India,,,,Lucknow Super Giants won by 5 runs
+20244,1715,2023-05-17,League,India,,,,Delhi Capitals Won by 15 runs
+20247,1715,2023-05-20,League,India,,,,Chennai Super Kings Won by 77 runs
+20248,1715,2023-05-20,League,India,,,,Lucknow Super Giants won by 1 run
+21583,1715,2023-05-23,Qualifier,India,,,,Chennai Super Kings Won by 15 runs
+21585,1715,2023-05-26,Qualifier,India,,,,Gujarat Titans won by 62 runs
+20880,1792,2023-03-27,League,United Arab Emirates,,,,Pakistan Won by 66 Runs
+24350,1913,2023-08-03,League,West Indies,,,,West Indies Won   by 4 runs
+24793,1997,2023-08-19,League,United Arab Emirates,,,,United Arab Emirates Won by 7 Wickets
+24822,1998,2023-08-18,League,Ireland,,,,India Won by 2 Runs (DLS method)
+25157,2000,2023-09-03,League,South Africa,,,,Australia Won by 5 Wickets
+27061,2046,2023-11-26,Others,India,,,,India won by 44 runs
+28064,2048,2023-12-14,Others,West Indies,,,,West Indies won by 10 runs
+28962,2059,2024-01-17,Others,India,,,,India Won Super Over By 10 Runs
+30060,2193,2024-03-24,League,India,,,,Gujarat Titans won by 6 runs
+30063,2193,2024-03-27,League,India,,,,Sunrisers Hyderabad won by 31 runs
+30071,2193,2024-04-03,League,India,,,,Kolkata Knight Riders Won by 106 runs
+30075,2193,2024-04-07,League,India,,,,Mumbai Indians Won by 29 runs
+31254,2193,2024-04-21,League,India,,,,Kolkata Knight Riders Won by 1 runs
+31255,2193,2024-04-21,League,India,,,,Gujarat Titans Won by 3 wickets
+31258,2193,2024-04-24,League,India,,,,Delhi Capitals Won by 4 runs
+31262,2193,2024-04-27,League,India,,,,Rajasthan Royals Won by 7 wickets
+31267,2193,2024-05-01,League,India,,,,Punjab Kings Won by 7 wickets
+31273,2193,2024-05-06,League,India,,,,Mumbai Indians Won by 7 wickets
+31286,2193,2024-05-18,League,India,,,,Royal Challengers Bengaluru Won by 27 runs
+28957,2229,2024-01-14,Others,Sri Lanka,,,,Sri Lanka Won By 3 Wickets
+31709,2350,2024-04-21,League,Pakistan,,,,New Zealand Won by 7 wickets
+32134,2371,2024-05-07,Others,Bangladesh,,,,Bangladesh Won by 9 runs
+32136,2371,2024-05-12,Others,Bangladesh,,,,Zimbabwe Won by 8 wickets
+33806,2372,2024-07-13,Others,Zimbabwe,,,,India Won by 10 wickets
+33807,2372,2024-07-14,Others,Zimbabwe,,,,India Won by 42 runs
+32620,2398,2024-05-18,Others,Netherlands,,,,Netherlands Won by 41 runs
+32623,2398,2024-05-22,Others,Netherlands,,,,Scotland Won by 71 runs
+38796,2442,2024-12-13,League,South Africa,,,,South Africa Won by 7 wickets
+32618,2452,2024-05-26,Others,West Indies,,,,West Indies Won by 16 runs
+36096,2453,2024-08-24,Others,West Indies,,,,West Indies Won by 7 wickets
+37277,2512,2024-10-09,League,India,,,,India Won by 86 runs
+37278,2512,2024-10-12,League,India,,,,India Won by 133 runs
+40038,2513,2025-01-28,League,India,,,,England Won by 26 runs
+40039,2513,2025-01-31,League,India,,,,India Won by 15 runs
+36560,2561,2024-09-06,League,United Kingdom,,,,Australia Won by 70 runs
+36200,2626,2025-06-08,League,United Kingdom,,,,England Won by 4 wickets
+36201,2626,2025-06-10,League,United Kingdom,,,,England Won by 37 runs
+37940,2718,2024-11-08,League,South Africa,,,,India Won by 61 runs
+37943,2718,2024-11-15,League,South Africa,,,,India Won by 135 runs
+40695,2725,2025-03-23,League,India,,,,Sunrisers Hyderabad Won by 44 runs
+40697,2725,2025-03-24,League,India,,,,Delhi Capitals Won by 1 wickets
+40723,2725,2025-04-14,League,India,,,,Chennai Super Kings Won by 5 wickets
+40736,2725,2025-04-25,League,India,,,,Sunrisers Hyderabad Won by 5 wickets
+40745,2725,2025-05-03,League,India,,,,Royal Challengers Bengaluru Won by 2 runs
+40752,2725,2025-05-27,League,India,,,,Royal Challengers Bengaluru Won by 6 wickets
+40758,2725,2025-05-22,League,India,,,,Lucknow Super Giants Won by 33 runs
+40763,2725,2025-05-19,League,India,,,,Sunrisers Hyderabad Won by 6 wickets
+40766,2725,2025-06-01,Qualifier,India,,,,Punjab Kings Won by 5 wickets
+38632,2755,2024-12-28,League,New Zealand,,,,New Zealand Won by 8 runs
+39985,2801,2025-02-25,League,Zimbabwe,108.0,,,No Result
+41850,2906,2026-01-29,Others,South Africa,,,,South Africa Won by 7 wickets
+41969,2912,2025-08-10,Others,Australia,,,,Australia Won by 17 runs
+42744,2973,2025-06-01,Others,Pakistan,,,,Pakistan Won by 7 wickets
+42784,2975,2025-05-19,League,United Arab Emirates,,,,United Arab Emirates Won by 2 wickets
+43171,2975,2025-05-21,Others,United Arab Emirates,,,,United Arab Emirates Won by 7 wickets
+45394,3126,2026-07-11,Others,United Kingdom,,,,England Won by 56 runs
+45508,3133,2025-09-21,Super 4,United Arab Emirates,,,,India Won by 6 wickets
+45509,3133,2025-09-23,Super 4,United Arab Emirates,,,,Pakistan Won by 5 wickets
+45510,3133,2025-09-24,Super 4,United Arab Emirates,,,,India Won by 41 runs
+45512,3133,2025-09-26,Super 4,United Arab Emirates,,,,India won the Super Over(Match Tied)
+45851,3159,2025-08-29,League,United Arab Emirates,,,,Pakistan Won by 39 runs
+47260,3254,2025-10-29,Others,Zimbabwe,,,,Afghanistan Won by 53 runs
+47262,3254,2025-11-02,Others,Zimbabwe,,,,Afghanistan Won by 9 runs
+50128,3298,2026-03-31,League,India,,,,Punjab Kings Won by 3 wickets
+50139,3298,2026-04-09,League,India,,,,Lucknow Super Giants Won by 3 wickets
+50141,3298,2026-04-11,League,India,,,,Punjab Kings Won by 6 wickets
+50144,3298,2026-04-12,League,India,,,,Royal Challengers Bengaluru Won by 18 runs
+50346,3298,2026-04-17,League,India,,,,Gujarat Titans Won by 5 wickets
+50347,3298,2026-04-18,League,India,,,,Delhi Capitals Won by 6 wickets
+50348,3298,2026-04-18,League,India,,,,Sunrisers Hyderabad Won by 10 runs
+50350,3298,2026-04-19,League,India,,,,Punjab Kings Won by 54 runs
+50359,3298,2026-04-26,League,India,,,,Kolkata Knight Riders Won by Super over (Match Tied)
+50370,3298,2026-05-06,League,India,,,,Sunrisers Hyderabad Won by 33 runs
+50381,3298,2026-05-16,League,India,,,,Kolkata Knight Riders Won by 29 runs
+50385,3298,2026-05-19,League,India,,,,Rajasthan Royals Won by 7 wickets
+50388,3298,2026-05-22,League,India,,,,Sunrisers Hyderabad Won by 55 runs
+50390,3298,2026-05-24,League,India,,,,Rajasthan Royals Won by 30 runs
+50391,3298,2026-05-24,League,India,,,,Delhi Capitals Won by 40 runs
+50942,3298,2026-05-26,Qualifier,India,,,,Royal Challengers Bengaluru Won by 92 runs
+50943,3298,2026-05-27,Eliminator,India,,,,Rajasthan Royals Won by 47 runs
+48467,3313,2026-01-31,Others,United Arab Emirates,,,,Ireland Won by 30 runs
+48595,3329,2026-01-31,Others,India,,,,India Won by 46 runs
+48917,3358,2026-02-01,Others,Pakistan,,,,Pakistan Won by 111 runs
+49740,3395,2026-03-25,Others,New Zealand,,,,South Africa Won by 33 runs
+50340,3446,2026-06-26,Others,United Kingdom,,,,Ireland Won by 34 runs
+50341,3446,2026-06-28,Others,United Kingdom,,,,Ireland Won by 1 run
+50405,3450,2026-10-09,Others,India,,,,West Indies Won by 6 wickets
+50407,3450,2026-10-14,Others,India,,,,West Indies Won by 24 runs
+50504,3464,2026-06-14,Others,West Indies,,,,Sri Lanka Won by 37 runs
+54210,3690,2026-10-22,Others,New Zealand,,,,India Won by 4 wickets
+54213,3690,2026-10-30,Others,New Zealand,,,,New Zealand Won by 87 runs
+55078,3765,2026-10-09,Others,Pakistan,,,,Pakistan Won by 4 wickets

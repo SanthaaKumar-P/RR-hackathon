@@ -1,0 +1,48 @@
+SUPERR SELECTOR - PRESSURE PERFORMANCE RANKING METHODOLOGY
+===========================================================================
+
+1. COMPETITION SEGMENTATION
+T20 and T20I are ranked independently.
+
+2. PRESSURE DEFINITION
+Only Moderate, High and Extreme pressure deliveries are included. First innings uses first_innings_pressure; second innings uses chase_pressure.
+
+3. SAMPLE ELIGIBILITY
+Batters: minimum 100 pressure balls and 10 pressure matches.
+Bowlers: minimum 60 pressure legal balls and 10 pressure matches.
+
+4. BATTER BASELINE WEIGHTS
+strike_rate: 25%
+runs_per_match: 20%
+runs_per_dismissal: 15%
+dot_percentage: 15%
+consistency: 25%
+
+5. BOWLER BASELINE WEIGHTS
+wickets_per_100: 25%
+economy: 20%
+dot_percentage: 15%
+consistency: 20%
+wickets_per_match: 20%
+
+6. NORMALIZATION
+Metrics are converted to percentile scores within eligible players of the same format. Lower-is-better metrics are reverse-ranked. Missing components are excluded and remaining weights are renormalized.
+
+7. BATTER CONSISTENCY
+60% of the percentage of pressure matches with 10+ runs and 40% of the percentage with 20+ runs.
+
+8. BOWLER CONSISTENCY
+Only matches containing at least one valid pressure legal delivery are included. Consistency is calculated as 70% of the percentage of these matches with 1+ credited wicket and 30% of the percentage with 2+ credited wickets. The same corrected match count is used for bowler match eligibility and wickets per match.
+
+9. BOWLER WICKET CREDIT
+Bowled, Caught, LBW, Stump and Hit Wicket are credited to bowlers. Run-outs and other non-bowler dismissals are excluded.
+
+10. BOWLER EXTRAS ACCOUNTING
+Scenario A: Batter runs plus extras1 for wides and oversteps. Unverified extras_2_runs and other extras are not charged.
+Scenario B: Scenario A plus extras_2_runs on oversteps. This is a sensitivity test, not a verified official scoring interpretation.
+
+11. WEIGHT SENSITIVITY
+Baseline rankings are compared against volume-focused, efficiency-focused, wicket-impact and control-focused alternative weighting scenarios.
+
+12. INTERPRETATION LIMITATIONS
+This is a project-defined analytical model, not an official Rajasthan Royals selection formula. Pressure definitions, delivery classification, sample thresholds and weights are project assumptions. The source does not define extras_2_runs sufficiently to establish its bowler-accounting treatment.

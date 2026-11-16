@@ -1,0 +1,34 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node / Frontend dependencies & build artifacts
+**/node_modules/
+**/dist/
+**/.output/
+**/.vinxi/
+**/.vite/
+**/.vite-temp/
+**/.tanstack-start/
+
+# Temporary data pack zip extract
+6af458274c1e8_data_pack/
+check_sizes.py
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.log
