@@ -3,6 +3,22 @@ from pathlib import Path
 from typing import List
 from pydantic import BaseModel, Field
 
+def find_base_dir() -> Path:
+    env_root = os.getenv("PROJECT_ROOT")
+    if env_root:
+        p = Path(env_root).resolve()
+        if (p / "outputs").exists():
+            return p
+    p_file = Path(__file__).resolve().parent.parent.parent.parent
+    if (p_file / "outputs").exists():
+        return p_file
+    p_cwd = Path.cwd().resolve()
+    if (p_cwd / "outputs").exists():
+        return p_cwd
+    if (p_cwd.parent / "outputs").exists():
+        return p_cwd.parent
+    return p_file
+
 class Settings(BaseModel):
     PROJECT_NAME: str = "SupeRR Selector – Cricket Intelligence API"
     VERSION: str = "2.0.0"
@@ -10,7 +26,7 @@ class Settings(BaseModel):
     API_V1_STR: str = "/api/v1"
     
     # Project Root Resolution
-    BASE_DIR: Path = Field(default_factory=lambda: Path(os.getenv("PROJECT_ROOT", Path(__file__).resolve().parent.parent.parent.parent)))
+    BASE_DIR: Path = Field(default_factory=find_base_dir)
     
     # CORS Configuration
     CORS_ORIGINS: List[str] = [
